@@ -7,6 +7,11 @@
 print 'hello world'
 urltoscrape = "http://site.com/"
 print urltoscrape
+my age = 35
+print my age
+urltoscrape = urltoscrape+"p1"
+print urltoscrape
+
 # html = scraperwiki.scrape("http://foo.com")
 #
 # # Find something on the page using css selectors
